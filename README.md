@@ -20,6 +20,8 @@
 
 25.02.01 웹 기초 ([상세 내역 링크](https://www.notion.so/250201-18d75a6ebc0a80548c60e33b6a4e9d0c?pvs=4))
 
-### [2월 첫째주, 3주차] : 데이터시각화
+### [2월 첫째주, 3주차] : 데이터분석
 
-25.02.03 코멘트 ([상세 내역 링크](https://www.notion.so/250203-18f75a6ebc0a80778266fbd13e9dc4c0?pvs=4))
+25.02.03 1주차 과제/딥다이브 코멘트 ([상세 내역 링크](https://www.notion.so/250203-18f75a6ebc0a80778266fbd13e9dc4c0?pvs=4))
+
+25.02.04 NumPy, Pandas ([[상세 내역 링크]](https://www.notion.so/250204-18f75a6ebc0a80d29431f5c9308bcd99?pvs=4))
