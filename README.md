@@ -24,6 +24,6 @@
 
 25.02.03 1주차 과제/딥다이브 코멘트 ([상세 내역 링크](https://www.notion.so/250203-18f75a6ebc0a80778266fbd13e9dc4c0?pvs=4))
 
-25.02.04 NumPy, Pandas ([[상세 내역 링크]](https://www.notion.so/250204-18f75a6ebc0a80d29431f5c9308bcd99?pvs=4))
+25.02.04 NumPy, Pandas ([상세 내역 링크](https://www.notion.so/250204-18f75a6ebc0a80d29431f5c9308bcd99?pvs=4))
 
-25.02.05 NumPy Doc ([[상세 내역 링크]](https://www.notion.so/250205-NumPy-Doc-19175a6ebc0a8040a52cfe63ea4359d5?pvs=4))
+25.02.05 NumPy Doc ([상세 내역 링크](https://www.notion.so/250205-NumPy-Doc-19175a6ebc0a8040a52cfe63ea4359d5?pvs=4))
