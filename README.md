@@ -27,3 +27,5 @@
 25.02.04 NumPy, Pandas ([상세 내역 링크](https://www.notion.so/250204-18f75a6ebc0a80d29431f5c9308bcd99?pvs=4))
 
 25.02.05 NumPy Doc ([상세 내역 링크](https://www.notion.so/250205-NumPy-Doc-19175a6ebc0a8040a52cfe63ea4359d5?pvs=4))
+
+25.02.06 Pandas Doc ([상세 내역 링크](https://www.notion.so/250206-Pandas-Doc-19175a6ebc0a806eb6dad7f9f9fc4c4a?pvs=4))
