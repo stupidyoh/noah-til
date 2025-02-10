@@ -33,3 +33,7 @@
 25.02.07 딥다이브 ([상세 내역 링크](https://www.notion.so/250207-2-19375a6ebc0a80b0b5adeea89005a4dd?pvs=4))
 
 25.02.08 선형대수 ([상세 내역 링크](https://www.notion.so/250208-19375a6ebc0a8045b502c29e4bcba0ea?pvs=4))
+
+### [2월 둘째주, 4주차] : 데이터시각화
+
+25.02.10 데이터시각화 ([상세 내역 링크](https://www.notion.so/250210-19375a6ebc0a800a8475f6ab4d7ad631?pvs=4))
