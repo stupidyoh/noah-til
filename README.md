@@ -1,6 +1,4 @@
-# til-template
-
-## 오늘 내가 배운 것들(Today I Learned)
+# 오늘 내가 배운 것들(Today I Learned)
 
 ### [1월 셋째주, 1주차] : CS기초, CLI, 멀티스레드
 
