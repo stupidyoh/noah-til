@@ -37,3 +37,5 @@
 25.02.10 데이터시각화 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-10.md))
 
 25.02.11 크램폴린IDE ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-11.md))
+
+25.02.12 SciPy 심화 - 정규분포 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-12.md))
