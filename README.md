@@ -10,7 +10,7 @@
 
 25.01.17 딥다이브 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Jan/2025-01-17.md))
 
-### [1월 넷째주, 2주차] : Git, JavaScript, 웹
+### [1월 넷째주, 1.5주차] : Git, JavaScript, 웹
 
 25.01.29 Git ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Jan/2025-01-29.md))
 
@@ -18,7 +18,7 @@
 
 25.02.01 웹 기초 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-01.md))
 
-### [2월 첫째주, 3주차] : 데이터분석
+### [2월 첫째주, 2주차] : 데이터분석
 
 25.02.03 1주차 과제/딥다이브 코멘트 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-03.md))
 
@@ -32,7 +32,7 @@
 
 25.02.08 선형대수 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-08.md))
 
-### [2월 둘째주, 4주차] : 데이터시각화
+### [2월 둘째주, 3주차] : 데이터시각화
 
 25.02.10 데이터시각화 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-10.md))
 
