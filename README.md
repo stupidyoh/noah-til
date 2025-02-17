@@ -45,3 +45,9 @@
 25.02.14 딥다이브 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-14.md))
 
 25.02.15 선형대수 - 선형변환 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-15.md))
+
+25.02.17 다변수 미적분 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-17.md))
+
+### [2월 셋째주, 4주차] : 머신러닝
+
+25.02.18 추가예정
