@@ -54,7 +54,7 @@
 
 25.02.19 머신러닝 심화 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-19.md))
 
-25.02.20 API 서버 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02.20.md))
+25.02.20 API 서버 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-20.md))
 
 25.02.21 딥다이브 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-21.md))
 
