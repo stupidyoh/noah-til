@@ -60,7 +60,7 @@
 
 25.02.22 LLM API 서버 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-22.md))
 
-### [2월 넷넷째주, 5주차] : 딥러닝 기초 및 해커톤
+### [2월 넷째주, 5주차] : 딥러닝 기초 및 해커톤
 
 25.02.24 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-24.md))
 
