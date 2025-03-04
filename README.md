@@ -65,3 +65,7 @@
 25.02.24 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-24.md))
 
 25.02.25 ~ 25.02.28 해커톤 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-28.md))
+
+### [3월 첫째주, 6주차] : 딥러닝 기초2
+
+02.03.04 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-04.md))
