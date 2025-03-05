@@ -69,3 +69,5 @@
 ### [3월 첫째주, 6주차] : 딥러닝 기초2
 
 02.03.04 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-04.md))
+
+02.03.05 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-05.md))
