@@ -71,3 +71,7 @@
 02.03.04 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-04.md))
 
 02.03.05 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-05.md))
+
+02.03.06 딥러닝 심화2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-06.md))
+
+02.03.08 Streamlit (상세 내역 링크)
