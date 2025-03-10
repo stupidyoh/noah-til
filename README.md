@@ -68,10 +68,14 @@
 
 ### [3월 첫째주, 6주차] : 딥러닝 기초2
 
-02.03.04 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-04.md))
+25.03.04 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-04.md))
 
-02.03.05 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-05.md))
+25.03.05 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-05.md))
 
-02.03.06 딥러닝 심화2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-06.md))
+25.03.06 딥러닝 심화2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-06.md))
 
-02.03.08 Streamlit ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-08.md))
+25.03.08 Streamlit ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-08.md))
+
+### [3월 둘째주, 7주차] : 생성형 AI
+
+25.03.10 생성형AI ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-10.md))
