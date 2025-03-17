@@ -79,3 +79,9 @@
 ### [3월 둘째주, 7주차] : 생성형 AI
 
 25.03.10 생성형AI ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-10.md))
+
+25.03.11 생성형AI2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-11.md))
+
+### [3월 셋째주, 8주차] : 데이터 활용 및 구현
+
+25.03.17 
