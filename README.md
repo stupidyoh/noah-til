@@ -58,4 +58,30 @@
 
 25.02.21 딥다이브 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-21.md))
 
-25.02.22 LLM API 서버 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-스 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-17.md))
+25.02.22 LLM API 서버 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-22.md))
+
+### [2월 넷째주, 5주차] : 딥러닝 기초 및 해커톤
+
+25.02.24 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-24.md))
+
+25.02.25 ~ 25.02.28 해커톤 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Feb/2025-02-28.md))
+
+### [3월 첫째주, 6주차] : 딥러닝 기초2
+
+25.03.04 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-04.md))
+
+25.03.05 딥러닝 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-05.md))
+
+25.03.06 딥러닝 심화2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-06.md))
+
+25.03.08 Streamlit ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-08.md))
+
+### [3월 둘째주, 7주차] : 생성형 AI
+
+25.03.10 생성형AI ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-10.md))
+
+25.03.11 생성형AI2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-11.md))
+
+### [3월 셋째주, 8주차] : 데이터 활용 및 구현
+
+25.03.17 데이터베이스 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-17.md))
