@@ -85,3 +85,5 @@
 ### [3월 셋째주, 8주차] : 데이터 활용 및 구현
 
 25.03.17 데이터베이스 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-17.md))
+
+25.03.18 데이터베이스2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-18.md))
