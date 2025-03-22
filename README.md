@@ -95,3 +95,14 @@
 25.03.21 딥다이브 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-21.md))
 
 25.03.22 데이터베이스5 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-22.md))
+
+
+<details markdown="1">
+  <summary>첫번째토글</summary>
+  <div>
+    <ul>
+      <li>1</li>
+      <li>2</li>
+    </ul>
+  </div>
+</details>
