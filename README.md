@@ -82,26 +82,21 @@
 
 25.03.11 생성형AI2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-11.md))
 
-### [3월 셋째주, 8주차] : 데이터 활용 및 구현
-
-25.03.17 데이터베이스 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-17.md))
-
-25.03.18 데이터베이스2 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-18.md))
-
-25.03.19 데이터베이스3 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-19.md))
-
-25.03.20 데이터베이스4 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-20.md))
-
-25.03.21 딥다이브 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-21.md))
-
-25.03.22 데이터베이스5 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-22.md))
-
-
-<details markdown="1">
-  <summary>### [3월 넷째주, 9주차 : 개인 프로젝트]</summary>
+<details>
+  <summary><h3>[3월 셋째주, 8주차] : 데이터 활용 및 구현</h3></summary>
   <div>
-    <ul>
-      <li>25.03.24 개인프로젝트 중간 발표 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-24.md))</li>
-    </ul>
+    25.03.17 데이터베이스 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-17.md">상세 내역 링크</a>)<br><br>
+    25.03.18 데이터베이스2 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-18.md">상세 내역 링크</a>)<br><br>
+    25.03.19 데이터베이스3 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-19.md">상세 내역 링크</a>)<br><br>
+    25.03.20 데이터베이스4 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-20.md">상세 내역 링크</a>)<br><br>
+    25.03.21 딥다이브 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-21.md">상세 내역 링크</a>)<br><br>
+    25.03.22 데이터베이스5 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-22.md">상세 내역 링크</a>)
+  </div>
+</details>
+
+<details>
+  <summary><h3>[3월 넷째주, 9주차] : 개인 프로젝트</h3></summary>
+  <div>
+    25.03.24 개인프로젝트 중간 발표 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-24.md">상세 내역 링크</a>)<br><br>
   </div>
 </details>
