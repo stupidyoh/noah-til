@@ -98,11 +98,10 @@
 
 
 <details markdown="1">
-  <summary>첫번째토글</summary>
+  <summary>### [3월 넷째주, 9주차 : 개인 프로젝트]</summary>
   <div>
     <ul>
-      <li>1</li>
-      <li>2</li>
+      <li>25.03.24 개인프로젝트 중간 발표 ([상세 내역 링크](https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-24.md))</li>
     </ul>
   </div>
 </details>
