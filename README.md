@@ -98,5 +98,6 @@
   <div>
     25.03.24 개인프로젝트 중간 발표 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-24.md">상세 내역 링크</a>)<br><br>
     25.03.25 개인프로젝트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-25.md">상세 내역 링크</a>)<br><br>
+    25.03.26 개인프로젝트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-26.md">상세 내역 링크</a>)<br><br>
   </div>
 </details>
