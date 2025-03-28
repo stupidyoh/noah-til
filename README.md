@@ -100,5 +100,6 @@
     25.03.25 개인프로젝트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-25.md">상세 내역 링크</a>)<br><br>
     25.03.26 개인프로젝트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-26.md">상세 내역 링크</a>)<br><br>
     25.03.27 개인프로젝트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-27.md">상세 내역 링크</a>)<br><br>
+    25.03.28 개인프로젝트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Mar/2025-03-28.md">상세 내역 링크</a>)<br><br>
   </div>
 </details>
