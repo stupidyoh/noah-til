@@ -111,3 +111,18 @@
     </details>
   </div>
 </details>
+
+
+
+<details>
+  <summary><h2>2025년 4월</h3></summary>
+  <div>
+    <details>
+      <summary><h3>[4월 셋째주, 13주차] : 설계</h4></summary>
+      <div>
+        25.04.24 최종 통합 설계 및 회고 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Apr/2025-04-24.md">상세 내역 링크</a>)<br><br>
+      </div>
+    </details>
+    
+  </div>
+</details>
