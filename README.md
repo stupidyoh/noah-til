@@ -130,6 +130,7 @@
         25.04.29 아키텍처 구성 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Apr/2025-04-29.md">상세 내역 링크</a>)<br><br>
         25.04.30 FastAPI 서버 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Apr/2025-04-30.md">상세 내역 링크</a>)<br><br>
         25.05.01 API 테스트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-01.md">상세 내역 링크</a>)<br><br>
+        25.05.02 Test 및 Utils 모듈 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-02.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
     
