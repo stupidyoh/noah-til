@@ -124,7 +124,7 @@
       </div>
     </details>
     <details>
-      <summary><h3>[4월 넷째주, 14주차] : 개발[스프린트3]</h4></summary>
+      <summary><h3>[4월 넷째주, 14주차] : v1 기능 구현[스프린트3]</h4></summary>
       <div>
         25.04.28 최종 통합 설계 및 회고 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Apr/2025-04-28.md">상세 내역 링크</a>)<br><br>
         25.04.29 아키텍처 구성 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Apr/2025-04-29.md">상세 내역 링크</a>)<br><br>
@@ -133,6 +133,13 @@
         25.05.02 Test 및 Utils 모듈 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-02.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
+    <details>
+      <summary><h3>[5월 첫째주, 15주차] : 테스트 및 최적화[스프린트3]</h4></summary>
+      <div>
+        25.05.07 단위/통합/부하테스트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-07.md">상세 내역 링크</a>)<br><br>
+      </div>
+    </details>
+
     
   </div>
 </details>
