@@ -143,6 +143,7 @@
       <div>
         25.05.07 단위/통합/부하테스트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-07.md">상세 내역 링크</a>)<br><br>
         25.05.08 멘토링 대비 및 부하테스트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-08.md">상세 내역 링크</a>)<br><br>
+        25.05.09 멘토링 및 매칭스코어 코드개선 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-09.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
 
