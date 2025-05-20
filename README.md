@@ -160,6 +160,7 @@
       <summary><h3>[5월 셋째주, 17주차] : 테스트 및 최적화[스프린트3]</h4></summary>
       <div>
         25.05.19 GPU 테스트 서버 구축(GCP) (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-19.md">상세 내역 링크</a>)<br><br>
+        25.05.20 MCP 서버 및 클라이언트 구축 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-20.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
     
