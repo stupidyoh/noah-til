@@ -147,7 +147,7 @@
       </div>
     </details>
     <details>
-      <summary><h3>[5월 둘째주, 16주차] : 테스트 및 최적화[스프린트3]</h4></summary>
+      <summary><h3>[5월 둘째주, 16주차] : 테스트 및 최적화[스프린트4]</h4></summary>
       <div>
         25.05.12 스프린트플래닝 & 모델추가조사 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-12.md">상세 내역 링크</a>)<br><br>
         25.05.13 모델추가조사 & 사용자등록 API 최적화 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-13.md">상세 내역 링크</a>)<br><br>
@@ -157,7 +157,7 @@
       </div>
     </details>
     <details>
-      <summary><h3>[5월 셋째주, 17주차] : 테스트 및 최적화[스프린트3]</h4></summary>
+      <summary><h3>[5월 셋째주, 17주차] : 테스트 및 최적화[스프린트4]</h4></summary>
       <div>
         25.05.19 GPU 테스트 서버 구축(GCP) (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-19.md">상세 내역 링크</a>)<br><br>
         25.05.20 MCP 서버 및 클라이언트 구축 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-20.md">상세 내역 링크</a>)<br><br>
@@ -167,7 +167,7 @@
       </div>
     </details>
     <details>
-      <summary><h3>[5월 셋째주, 17주차] : 테스트 및 최적화[스프린트3]</h4></summary>
+      <summary><h3>[5월 넷째주, 18주차] : MCP 적용 및 리펙터링[스프린트5]</h4></summary>
       <div>
         25.05.26 MCP 통합 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-26.md">상세 내역 링크</a>)<br><br>
         25.05.27 MCP 통합 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-27.md">상세 내역 링크</a>)<br><br>
