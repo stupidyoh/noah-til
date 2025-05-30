@@ -172,6 +172,8 @@
         25.05.26 MCP 통합 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-26.md">상세 내역 링크</a>)<br><br>
         25.05.27 MCP 통합 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-27.md">상세 내역 링크</a>)<br><br>
         25.05.28 코드리뷰 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-28.md">상세 내역 링크</a>)<br><br>
+        25.05.29 코드리뷰 및 리팩터링 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-29.md">상세 내역 링크</a>)<br><br>
+        25.05.30 리팩터링 및 서버 구축 문서화 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-30.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
     
