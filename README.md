@@ -185,7 +185,7 @@
     <details>
       <summary><h3>[6월 첫째주, 19주차] : 테스트 및 최적화[스프린트5]</h4></summary>
       <div>
-        25.06.04 prod 서버 트러블슈팅 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-07.md">상세 내역 링크</a>)<br><br>
+        25.06.04 prod 서버 트러블슈팅 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-04.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
 
