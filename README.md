@@ -176,6 +176,18 @@
         25.05.30 리팩터링 및 서버 구축 문서화 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-30.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
-    
+  </div>
+</details>
+
+<details>
+  <summary><h2>2025년 6월</h3></summary>
+  <div>
+    <details>
+      <summary><h3>[6월 첫째주, 19주차] : 테스트 및 최적화[스프린트5]</h4></summary>
+      <div>
+        25.06.04 prod 서버 트러블슈팅 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/May/2025-05-07.md">상세 내역 링크</a>)<br><br>
+      </div>
+    </details>
+
   </div>
 </details>
