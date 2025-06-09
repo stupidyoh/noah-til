@@ -189,6 +189,12 @@
         25.06.05 prod 서버 트러블슈팅 및 MCP 재연결 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-05.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
+    <details>
+      <summary><h3>[6월 둘째주, 20주차] : 테스트 및 최적화[스프린트6]</h4></summary>
+      <div>
+        25.06.09 Ollama/vLLM 테스트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-09.md">상세 내역 링크</a>)<br><br>
+      </div>
+    </details>
 
   </div>
 </details>
