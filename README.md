@@ -193,6 +193,7 @@
       <summary><h3>[6월 둘째주, 20주차] : 테스트 및 최적화[스프린트6]</h4></summary>
       <div>
         25.06.09 Ollama/vLLM 테스트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-09.md">상세 내역 링크</a>)<br><br>
+        25.06.10 MCP 연결(작성중) (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-10.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
 
