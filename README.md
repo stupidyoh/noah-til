@@ -195,6 +195,7 @@
         25.06.09 Ollama/vLLM 테스트 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-09.md">상세 내역 링크</a>)<br><br>
         25.06.10 MCP 연결 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-10.md">상세 내역 링크</a>)<br><br>
         25.06.11 MCP 연결 및 SLM 평가 계획 초안 작성 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-11.md">상세 내역 링크</a>)<br><br>
+        25.06.12 SLM 평가 계획 수립 및 LLM-as-a-Judge 자료조사 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-12.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
 
