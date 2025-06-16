@@ -199,6 +199,12 @@
         25.06.13 팀 wiki 문서 정리 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-13.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
+    <details>
+      <summary><h3>[6월 둘째주, 20주차] : 테스트 및 최적화[스프린트6]</h4></summary>
+      <div>
+        25.06.16 LLM 평가 준비 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-16.md">상세 내역 링크</a>)<br><br>
+      </div>
+    </details>
 
   </div>
 </details>
