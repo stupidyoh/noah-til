@@ -203,6 +203,7 @@
       <summary><h3>[6월 셋째주, 21주차] : LLM-as-a-Judge[스프린트6]</h4></summary>
       <div>
         25.06.16 LLM 평가 준비 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-16.md">상세 내역 링크</a>)<br><br>
+        25.06.17 LLM 평가 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-17.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
 
