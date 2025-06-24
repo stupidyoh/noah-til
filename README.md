@@ -204,6 +204,16 @@
       <div>
         25.06.16 LLM 평가 준비 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-16.md">상세 내역 링크</a>)<br><br>
         25.06.17 LLM 평가 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-17.md">상세 내역 링크</a>)<br><br>
+        25.06.18 LLM 평가 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-18.md">상세 내역 링크</a>)<br><br>
+        25.06.19 LLM 평가 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-19.md">상세 내역 링크</a>)<br><br>
+        25.06.20 LLM 평가 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-20.md">상세 내역 링크</a>)<br><br>
+      </div>
+    </details>
+    <details>
+      <summary><h3>[6월 넷째주, 22주차] : LLM-as-a-Judge[스프린트7]</h4></summary>
+      <div>
+        25.06.23 LLM 평가 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-23.md">상세 내역 링크</a>)<br><br>
+        25.06.24 LLM 평가 개발 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jun/2025-06-24.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
 
