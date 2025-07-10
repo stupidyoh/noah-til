@@ -229,3 +229,19 @@
 
   </div>
 </details>
+
+<details>
+  <summary><h2>2025년 7월</h2></summary>
+  <div>
+    <details>
+      <summary><h3>[7월 첫째주, 24주차] : 평가-생성 테스트[스프린트8]</h4></summary>
+      <div>
+        25.07.07 생성 프롬프트 튜닝 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jul/2025-07-07.md">상세 내역 링크</a>)<br><br>
+        25.07.08 생성 프롬프트 튜닝 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jul/2025-07-08.md">상세 내역 링크</a>)<br><br>
+        25.07.09 평가지표 수정 및 평가 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jul/2025-07-09.md">상세 내역 링크</a>)<br><br>
+        25.07.10 인간-LLM 평가 합치 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jul/2025-07-10.md">상세 내역 링크</a>)<br><br>
+        25.07.11 인간-LLM 평가 합치 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jul/2025-07-11.md">상세 내역 링크</a>)<br><br>
+      </div>
+    </details>
+  </div>
+</details>
