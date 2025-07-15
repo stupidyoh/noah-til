@@ -247,6 +247,7 @@
       <summary><h3>[7월 둘째주, 25주차] : 모델 서빙 최적화[스프린트8]</h4></summary>
       <div>
         25.07.14 모델 서빙 최적화 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jul/2025-07-14.md">상세 내역 링크</a>)<br><br>
+        25.07.15 모델 양자화 (<a href="https://github.com/stupidyoh/noah-til/blob/main/2025/Jul/2025-07-15.md">상세 내역 링크</a>)<br><br>
       </div>
     </details>
   </div>
